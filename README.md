@@ -1,5 +1,7 @@
 # bankruptcy-classification-kaggle-competitions
-The Challenge - One challenge of modeling retail data is the need to make decisions based on limited history. Holidays and select major events come once a year, and so does the chance to see how strategic decisions impacted the bottom line. In addition, markdowns are known to affect sales – the challenge is to predict which departments will be affected and to what extent.
+This is an in-class competition for MGMT 571 at Purdue University.
+
+Firm collapse prediction has been a subject of interests for almost a century and it still ranks high among hottest topics in economics. The aim of predicting financial distress is to develop a predictive model that combines various econometric measures and allows to foresee a financial condition of a firm. The purpose of the bankruptcy prediction is to assess the financial condition of a company and its future perspectives within the context of longterm operation on the market.
 
 ## Kaggle competition Link :
 https://www.kaggle.com/c/bankruptcy-project/overview
